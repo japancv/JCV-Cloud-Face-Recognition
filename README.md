@@ -20,7 +20,7 @@ Welcome to JCV Cloud, a free openAPI based face recognition solution provided th
 JCVCloud is a versatile solution, suitable for both individuals and organizations. It offers robust functionality and uses up-to-date, efficient methods for facial recognition and related tasks. Moreover, it's flexible, offering deployment both on local servers (contact support) and in the cloud. If you're in search of a comprehensive and user-friendly face recognition solution, JCVCloud is the choice for you.
 
 ## News and Updates
-Stay updated with the latest enhancements, features, and bug fixes in JCVCloud. Check out our [News and Updates](https://docs.cloud.japancv.co.jp/changelog) page.
+Stay updated with the latest enhancements, features, and bug fixes in JCVCloud. Check out our [Changelog](https://docs.cloud.japancv.co.jp/changelog) page.
 
 ## Quick Start
 Eager to get started? Follow our [Quick Start Guide](docs/QuickStart_Anysee.md) for step-by-step instructions on setting up JCVCloud on your system.
