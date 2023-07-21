@@ -3,6 +3,11 @@
 Welcome to JCV Cloud, a free openAPI based face recognition solution provided through GitHub. This cloud-based service can be utilized on any device connecting to the internet, and requires no previous machine learning skills to set up or use.
 
 <p align="center">
+    <a target="_blank" href="https://cloud.japancv.co.jp/en/signin">
+  <img src="https://cloud.japancv.co.jp/images/jcv-logo.png" alt="angular-logo" height="250px"/>
+ </a>
+
+<p align="center">
   <a href="https://www.apache.org/licenses/LICENSE-2.0">
     <img src="https://img.shields.io/github/license/exadel-inc/CompreFace" alt="GitHub license" />
   </a>&nbsp;
