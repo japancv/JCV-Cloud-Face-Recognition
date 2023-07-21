@@ -4,7 +4,7 @@ Welcome to JCV Cloud, a free openAPI based face recognition solution provided th
 
 <p align="center">
     <a target="_blank" href="https://cloud.japancv.co.jp/en/signin">
-  <img src="https://cloud.japancv.co.jp/images/jcv-logo.png" alt="angular-logo" height="250px"/>
+  <img src="https://www.japancv.co.jp/wp/wp-content/themes/japancv/assets/images/company/img_03.png" alt="angular-logo" height="250px"/>
  </a>
 
 <p align="center">
