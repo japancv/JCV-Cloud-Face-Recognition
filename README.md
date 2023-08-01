@@ -9,7 +9,7 @@ Welcome to JCV Cloud, a free openAPI based face recognition solution provided th
 
 <p align="center">
   <a href="https://www.apache.org/licenses/LICENSE-2.0">
-    <img src="https://img.shields.io/github/license/exadel-inc/CompreFace" alt="GitHub license" />
+    <img src="https://img.shields.io/badge/license-Apache2.0-green" alt="GitHub license" />
   </a>&nbsp;
 </p>
 
@@ -32,6 +32,11 @@ Eager to get started? Follow our [Quick Start Guide](docs/QuickStart_Anysee.md) 
 
 ## Documentation
 For detailed information about the application, including a full description of its features, usage instructions, and technical requirements, see our [Complete Documentation](https://docs.cloud.japancv.co.jp/docs).
+
+## Examples
+Here are some examples you can play around with to get your hands dirty!
+### Face detection example
+Checkout the [notebook](examples/face_detection.ipynb) or directly on [Google Colab](https://colab.research.google.com/drive/1MT56jHH0_ZCxvS09-ojF8jiT3eV6Ik_l?usp=sharing) for this project that detects all the faces in an arbitrary image. It also predicts their age, gender, emotion, hairstyle, and more!
 
 ## Contributing
 Your contributions are welcome! Please read our [Contributing Guidelines](docs/Contribution_guidelines.md) for details on how you can help improve JCVCloud.
