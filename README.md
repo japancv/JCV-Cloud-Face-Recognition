@@ -36,7 +36,7 @@ For detailed information about the application, including a full description of 
 ## Examples
 Here are some examples you can play around with to get your hands dirty!
 ### Face detection example
-Checkout the [notebook](examples/face_detection.ipynb) or directly on [Google Colab](https://colab.research.google.com/drive/1MT56jHH0_ZCxvS09-ojF8jiT3eV6Ik_l?usp=sharing) for this project that detects all the faces in an arbitrary image. It also predicts their age, gender, emotion, hairstyle, and more!
+Checkout the [notebook](examples/Face_detection_example1/face_detection.ipynb) or directly on [Google Colab](https://colab.research.google.com/drive/1MT56jHH0_ZCxvS09-ojF8jiT3eV6Ik_l?usp=sharing) for this project that detects all the faces in an arbitrary image. It also predicts their age, gender, emotion, hairstyle, and more!
 
 ## Contributing
 Your contributions are welcome! Please read our [Contributing Guidelines](docs/Contribution_guidelines.md) for details on how you can help improve JCVCloud.
