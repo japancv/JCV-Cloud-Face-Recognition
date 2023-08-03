@@ -37,7 +37,7 @@ For detailed information about the application, including a full description of 
 Here are some examples you can play around with to get your hands dirty!
 ### Face detection example
 Checkout the [notebook](examples/01_Face_detection_example/face_detection.ipynb) or directly on [Google Colab](https://colab.research.google.com/drive/1MT56jHH0_ZCxvS09-ojF8jiT3eV6Ik_l?usp=sharing) for this project that detects all the faces in an arbitrary image. It also predicts their age, gender, emotion, hairstyle, and more!
-<img src="face_detection_example_01.png" alt="sample" width="200"/>
+<img src="https://github.com/japancv/JCV-Cloud-Face-Recognition/blob/main/examples/01_Face_detection_example/face_detection_example_01.png?raw=true" alt="sample" width="200"/>
 
 ### Face quality register search example
 Checkout the [notebook](examples/02_Face_quality_register_search_example/face_quality_register_search.ipynb) for this project that searches images for any registered face that passes a customizable quality threshold!
