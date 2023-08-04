@@ -1,6 +1,7 @@
 # JCV Cloud: A Comprehensive Face Recognition Solution
 
-[日本語README](readme-jp.md)
+[日本語ページ](readme-jp.md) | [Homepage](https://www.japancv.co.jp/en/)
+
 Welcome to JCV Cloud, a free openAPI based face recognition solution provided through GitHub. This cloud-based service can be utilized on any device connecting to the internet, and requires no previous machine learning skills to set up or use.
 
 <p align="center">

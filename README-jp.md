@@ -1,5 +1,7 @@
 # JCV Cloud：究極の顔認識ソリューション
 
+[English readme](README.md) | [ホームページ](https://www.japancv.co.jp/)
+
 JCV Cloudは、GitHubを通じて無料で提供される、openAPIベースの顔認識サービスです。このクラウドベースのサービスは、インターネットに接続されたどんなデバイスでも使えます。設定や使用に機械学習の専門知識は一切不要です。
 
 <p align="center">
