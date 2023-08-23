@@ -31,7 +31,7 @@ JCV Cloudのホームページ [https://cloud.japancv.co.jp/signin](https://clou
 
 ![](sampleimgs/qs4.jpg)
 
-このチュートリアルでは、「トライアルプラン」を選択し、インスタンスを実行します。サービス地域として「ap-northeast-1」を選ぶことを例にします。これは、アジア太平洋地域の北東を表し、サーバーは日本に位置しています。
+このチュートリアルでは、「AnySee Trial」を選択し、インスタンスを実行します。サービス地域として「ap-northeast-1」を選ぶことを例にします。これは、アジア太平洋地域の北東を表し、サーバーは日本に位置しています。
 
 ![](sampleimgs/qs5.jpg)
 
