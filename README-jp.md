@@ -41,7 +41,7 @@ JCV Cloudの最新情報は[更新履歴](https://docs.cloud.japancv.co.jp/chang
 ### 顔検出の例
 このプロジェクトは、任意の画像内のすべての顔を検出し、その年齢、性別、感情、ヘアスタイルなどを予測します。[ノートブック](examples/01_Face_detection_example/face_detection.ipynb)や[Google Colab](https://colab.research.google.com/drive/1MT56jHH0_ZCxvS09-ojF8jiT3eV6Ik_l?usp=sharing)をチェックしてみてください。
 
-<img src="https://github.com/japancv/JCV-Cloud-Face-Recognition/blob/main/examples/01_Face_detection_example/face_detection_example_01.png?raw=true" alt="sample" width="200"/>
+<img src="https://github.com/japancv/JCV-Cloud-Face-Recognition/blob/main/examples/01_Face_detection_example/result2.jpg?raw=true" alt="sample" width="200"/>
 
 ### 顔品質登録検索の例
 カスタマイズ可能な品質閾値を通過した登録顔を探すためのこのプロジェクトの[ノートブック](examples/02_Face_quality_register_search_example/face_quality_register_search.ipynb)をチェックしてみてください。
@@ -49,7 +49,7 @@ JCV Cloudの最新情報は[更新履歴](https://docs.cloud.japancv.co.jp/chang
 ### 基本的な顔認識の例
 このプロジェクトは、あなたの顔が登場するすべての箇所を検出してフォトアルバムを整理します。[ノートブック](examples/03_%20Face_Recognition_example/face_compare.ipynb)または [Google Colab](https://colab.research.google.com/drive/1AN4chF-8UhVyVLy-jR_U8NUsqfDhAjBd?usp=sharing)をチェックしてみてください。
 
-<img src="https://github.com/japancv/JCV-Cloud-Face-Recognition/blob/main/examples/03_%20Face_Recognition_example/compared_1.jpg?raw=true" alt="sample" width="400"/>
+<img src="https://github.com/japancv/JCV-Cloud-Face-Recognition/blob/main/examples/03_%20Face_Recognition_example/compared_2.jpg?raw=true" alt="sample" width="400"/>
 
 ## 貢献
 JCV Cloudの改善にご協力いただける方は、[貢献ガイドライン](docs/Contribution_guidelines.md)をご覧ください。

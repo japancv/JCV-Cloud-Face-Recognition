@@ -43,7 +43,7 @@ Here are some examples you can play around with to get your hands dirty!
 ### Face detection example
 Checkout the [notebook](examples/01_Face_detection_example/face_detection.ipynb) or directly on [Google Colab](https://colab.research.google.com/drive/1MT56jHH0_ZCxvS09-ojF8jiT3eV6Ik_l?usp=sharing) for this project that detects all the faces in an arbitrary image. It also predicts their age, gender, emotion, hairstyle, and more!
 
-<img src="https://github.com/japancv/JCV-Cloud-Face-Recognition/blob/main/examples/01_Face_detection_example/face_detection_example_01.png?raw=true" alt="sample" width="200"/>
+<img src="https://github.com/japancv/JCV-Cloud-Face-Recognition/blob/main/examples/01_Face_detection_example/result2.jpg?raw=true" alt="sample" width="200"/>
 
 ### Face quality register search example
 Checkout the [notebook](examples/02_Face_quality_register_search_example/face_quality_register_search.ipynb) for this project that searches images for any registered face that passes a customizable quality threshold!
@@ -51,7 +51,7 @@ Checkout the [notebook](examples/02_Face_quality_register_search_example/face_qu
 ### Basic Face recognition example
 Checkout the [notebook](examples/03_%20Face_Recognition_example/face_compare.ipynb) or directly on  [Google Colab](https://colab.research.google.com/drive/1AN4chF-8UhVyVLy-jR_U8NUsqfDhAjBd?usp=sharing) for this project. Organize your photo album by detecting every appearance of your face!
 
-<img src="https://github.com/japancv/JCV-Cloud-Face-Recognition/blob/main/examples/03_%20Face_Recognition_example/compared_1.jpg?raw=true" alt="sample" width="400"/>
+<img src="https://github.com/japancv/JCV-Cloud-Face-Recognition/blob/main/examples/03_%20Face_Recognition_example/compared_2.jpg?raw=true" alt="sample" width="400"/>
 
 ## Contributing
 Your contributions are welcome! Please read our [Contributing Guidelines](docs/Contribution_guidelines.md) for details on how you can help improve JCVCloud.
