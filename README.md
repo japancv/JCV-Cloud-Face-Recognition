@@ -29,6 +29,11 @@ JCVCloud is a versatile solution, suitable for both individuals and organization
 ## News and Updates
 Stay updated with the latest enhancements, features, and bug fixes in JCVCloud. Check out our [Changelog](https://docs.cloud.japancv.co.jp/changelog) page.
 
+### JCV Developer Blogs
+Get the latest insights, information, and news from JCV.
+JPN | https://www.japancv.co.jp/news/11174/
+ENG| https://www.japancv.co.jp/en/news/11177/ 
+
 ## Quick Start
 Eager to get started? Follow our [Quick Start Guide](docs/QuickStart_Anysee.md) for step-by-step instructions on setting up JCVCloud on your system.
 
