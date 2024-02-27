@@ -32,7 +32,9 @@ JCV Cloudの最新情報は[更新履歴](https://docs.cloud.japancv.co.jp/chang
 
 ### JCV 開発ブログ
 開発スタッフによる公式ブログです。
+
 JPN | https://www.japancv.co.jp/news/11174/
+
 ENG| https://www.japancv.co.jp/en/news/11177/ 
 
 ## クイックスタート
