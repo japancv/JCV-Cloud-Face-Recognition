@@ -30,6 +30,11 @@ JCV Cloudは、個人から組織まで、多岐にわたるニーズに応え�
 ## ニュースとアップデート
 JCV Cloudの最新情報は[更新履歴](https://docs.cloud.japancv.co.jp/changelog)ページでチェックしてください。
 
+### JCV 開発ブログ
+開発スタッフによる公式ブログです。
+JPN | https://www.japancv.co.jp/news/11174/
+ENG| https://www.japancv.co.jp/en/news/11177/ 
+
 ## クイックスタート
 早速始めたい方は、[クイックスタートガイド](docs/QuickStart_Anysee_jp.md)に従って設定を進めてください。また、[対話型ドキュメンテーション](https://docs.cloud.japancv.co.jp/reference/anysee-create-entity)や[モデルエクスプローラ](https://cloud.japancv.co.jp/en/model-explorer/detection)で実際の操作を体験することもできます。
 
