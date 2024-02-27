@@ -31,7 +31,9 @@ Stay updated with the latest enhancements, features, and bug fixes in JCVCloud. 
 
 ### JCV Developer Blogs
 Get the latest insights, information, and news from JCV.
+
 JPN | https://www.japancv.co.jp/news/11174/
+
 ENG| https://www.japancv.co.jp/en/news/11177/ 
 
 ## Quick Start
